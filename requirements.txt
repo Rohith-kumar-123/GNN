@@ -1,0 +1,9 @@
+torch>=2.1
+numpy
+pandas>=2.0
+scikit-learn
+scipy
+xgboost
+pyarrow
+datasets          # downloads the dataset from Hugging Face
+matplotlib
